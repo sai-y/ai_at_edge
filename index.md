@@ -10,6 +10,6 @@
 [Caffe framework](https://caffe.berkeleyvision.org/)
 [Deep Learning on ARM](https://developer.arm.com/solutions/machine-learning-on-arm/developer-material/how-to-guides/deploying-a-caffe-model-on-openmv-using-cmsis-nn/single-page)
 
-***Deep Learning Resources***
-[Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning_)
+***Deep Learning Resources***  
+[Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning_)  
 [Neural Network in 5 minutes](https://medium.com/@thesupercoder/neural-networks-in-5-minutes-84edc781c8ac)
