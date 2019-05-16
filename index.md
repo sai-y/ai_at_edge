@@ -12,4 +12,5 @@
 
 ***Deep Learning Resources***   
 [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning_)   
-[Neural Network in 5 minutes](https://medium.com/@thesupercoder/neural-networks-in-5-minutes-84edc781c8ac)
+[Neural Network in 5 minutes](https://medium.com/@thesupercoder/neural-networks-in-5-minutes-84edc781c8ac)  
+[Convolutional Neural Networks for snall keyword spotting](Convolutional Neural Networks for Small-footprint Keyword Spotting)
